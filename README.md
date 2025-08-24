@@ -1,6 +1,6 @@
 # NotifyAI
 
-A production-ready AI-driven notification platform built with Node.js and TypeScript. Features intelligent message scoring using OpenAI, multi-channel delivery (Slack, Email, Webhook), Redis-based job queuing, rate limiting, and comprehensive analytics.
+An AI-driven notification platform built with Node.js and TypeScript. Features intelligent message scoring using OpenAI, multi-channel delivery, Redis-based job queuing, rate limiting, and comprehensive analytics.
 
 ---
 
